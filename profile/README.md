@@ -1,13 +1,21 @@
-## Hi there 👋
+# 🛍️ FastE – E-commerce
 
-<!--
+**FastE** is a full-featured e-commerce platform clone by Shopee and Lazada, built with modern technologies including **NestJS** for the backend, **Next.js** for the frontend, and **PostgreSQL** for the database.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-Hell
+## 🚀 Features
+
+Update pending ...
+
+---
+
+## 🛠 Tech Stack
+
+- **Backend**: [NestJS](https://nestjs.com/)
+- **Frontend**: [Next.js](https://nextjs.org/) (App Router, TypeScript, TailwindCSS)---
+- **Database**: [PostgreSQL](https://www.postgresql.org/)
+- **ORM**: [Prisma](https://www.prisma.io/)
+- **Authentication**: JWT + HTTP-only cookies
+- **Cloud Storage**: S3 or Cloudinary (optional)
+---
